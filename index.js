@@ -19,3 +19,5 @@ function startGame() {
     }
     messageEl.textContent = message;
 }
+
+// tommorow i gotta finish the cards and sum parts
